@@ -1,7 +1,7 @@
 {
-  "name": "SOBIA-MD",
+  "name": "HassoOoOO-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "logo": "https://files.catbox.moe/u7st6i.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      "value": "https://files.catbox.moe/u7st6i.jpeg"
     }, 
     
     "ALIVE_MSG": {
@@ -118,12 +118,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SOBIABUTT133"
+      "value": "POWERED BY Hassan"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү -sσвia-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү -Hassan"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
